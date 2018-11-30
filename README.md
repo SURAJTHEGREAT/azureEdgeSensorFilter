@@ -42,9 +42,9 @@ e=**service**;SharedAccessKey=xxxxxx"
 
 ## Dependend repositories
 
-https://github.com/SURAJTHEGREAT/toAzureEventsHubCosmosDB
-https://github.com/SURAJTHEGREAT/azureEdgeSensorFilter
-https://github.com/SURAJTHEGREAT/azureIotEdgeTempSensor
+1. https://github.com/SURAJTHEGREAT/toAzureEventsHubCosmosDB
+2. https://github.com/SURAJTHEGREAT/azureEdgeSensorFilter
+3. https://github.com/SURAJTHEGREAT/azureIotEdgeTempSensor
 
 
 
