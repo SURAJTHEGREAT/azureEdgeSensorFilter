@@ -5,7 +5,7 @@
  ## Goal
 To filter out simulated sensor data recieved based on the Temperature threshold sent as device twin
 ## Development Language 
- C#
+ C# Core
 ## Refered from 
 
 https://github.com/Azure/iot-edge-v1/tree/master/v2/samples/azureiotedge-simulated-temperature-sensor
