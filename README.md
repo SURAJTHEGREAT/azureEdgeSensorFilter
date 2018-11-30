@@ -35,7 +35,10 @@ as defined in routes as
 }
 ```
 
+## To monitor events in IoT hub
 
+iothub-explorer monitor-events -l "HostName=xxxx.azure-devices.net;SharedAccessKeyNam
+e=**service**;SharedAccessKey=xxxxxx"
 
 
 
