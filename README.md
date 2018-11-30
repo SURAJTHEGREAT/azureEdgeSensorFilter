@@ -40,6 +40,12 @@ as defined in routes as
 iothub-explorer monitor-events -l "HostName=xxxx.azure-devices.net;SharedAccessKeyNam
 e=**service**;SharedAccessKey=xxxxxx"
 
+## Dependend repositories
+
+https://github.com/SURAJTHEGREAT/toAzureEventsHubCosmosDB
+https://github.com/SURAJTHEGREAT/azureEdgeSensorFilter
+https://github.com/SURAJTHEGREAT/azureIotEdgeTempSensor
+
 
 
 
